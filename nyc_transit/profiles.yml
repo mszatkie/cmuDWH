@@ -1,0 +1,6 @@
+nyc_transit:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      path: /Users/Mike/Week-2/nyc_transit/nyc_transit.db
